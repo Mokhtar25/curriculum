@@ -60,7 +60,8 @@ Tips:
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- An extensive written JavaScript solution for [recursive Fibonacci](https://www.scaler.com/topics/fibonacci-series-in-javascript/)
+- The solution to the above Fibonacci sequence problem [recursively generate an Array of the Fibonacci sequence](https://stackoverflow.com/a/50274014/23628021)
+- Extensive written JavaScript solutions for [recursive Fibonacci](https://www.scaler.com/topics/fibonacci-series-in-javascript/)
 - Another look at [merge sort](http://www.sorting-algorithms.com/merge-sort)
 - Visualize and [understand](https://www.educative.io/courses/recursion-for-coding-interviews-in-javascript/NEZ7kKgMJKK) the memory allocation for recursive functions
 - For more attempts at recursion try the first 5 problems in [Project Euler](https://projecteuler.net/problems)
